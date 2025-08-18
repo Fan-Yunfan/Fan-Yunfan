@@ -4,6 +4,9 @@
 
 <h3>A DL engineer at JD.inc, graduated with a master's degree in 2024.</h3>
 
+<h3>Currently, I am learning NVIDIA's inference framework TensorRT-LLM (since August 2025).</h3>
+
+
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Fan-Yunfan&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=dark&count_private=true" />
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fan-Yunfan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Fan-Yunfan" />
